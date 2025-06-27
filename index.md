@@ -30,3 +30,7 @@ Illegal and unreported fishing is a global problem that is estimated to contribu
 This project was completed as a part of the Erdos Institute' [Data Science Bootcamp in Spring 2024](https://www.erdosinstitute.org/certificates/spring-2024/data-science-boot-camp/jack-kendrick/0badd280-39eb-4373-b529-dc7fa4f65a7f).
 
 Peer reviewed articles are a foundational pillar of academia. In theory, the process of peer review ensures that high quality, credible, and trustworthy research that advances our current knowledge can be disseminated to the community at large. However, it is not a foolproof process and some papers do fall through the cracks and end up being retracted. Retractions indicate seriously flawed and unreliable research, errors, fraud, ethical issues, or other serious concerns. Our aim was to build a classifier that identifies papers that have a high risk of retraction. We hope that our model could be helpful in the peer-review and publication process but want to emphasize that it cannot and should not replace rigorous scrutiny from an expert. 
+
+## Contact
+
+My email is jackgk (at) uw (dot) edu.
