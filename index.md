@@ -8,7 +8,7 @@ Outside of math, I can be found rowing and coxing on Lake Union, watching movies
 
 ## Papers
 
-- E. Catania, **J. Kendrick**, H. M. Russell, J. Tymoczko. *Identifying Orbit Lengths for Promotion*. Submitted.
+- E. Catania, **J. Kendrick**, H. M. Russell, J. Tymoczko. [*Identifying Orbit Lengths for Promotion*.](https://arxiv.org/abs/2506.22306) Submitted.
     - Extended abstract to appear in Proceedings of the 37th International Conference on "Formal Power Series and Algebraic Combinatorics" (FPSAC 2025).
 - **J. Kendrick.** [*Density Estimation on Rectifiable Sets.*](https://arxiv.org/abs/2505.23023) Submitted.
 - D. Bidleman, T. Duff, **J. Kendrick**, M. Zeng. [*Brackets and Projective Geometry in Macaulay2.*](https://arxiv.org/abs/2504.00889) Submitted.
