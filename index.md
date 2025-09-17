@@ -1,4 +1,4 @@
-Hello! I am a PhD candidate in the Department of Mathematics at the University of Washington in Seattle, where I am lucky to be co-advised by [Dmitriy Drusvyatskiy](https://sites.google.com/view/dmitriy-drusvyatskiy) and [Rekha Thomas](https://sites.math.washington.edu/~thomas/). My research interests broadly consist of questions inspired by data science and machine learning, with a particular focus on problems with an algebraic or combinatorial nature. I am especially interested in **symmetry** and **stability**.
+Hello! I am a PhD candidate in the Department of Mathematics at the University of Washington in Seattle, where I am lucky to be co-advised by [Dmitriy Drusvyatskiy](https://sites.google.com/view/dmitriy-drusvyatskiy) and [Rekha Thomas](https://sites.math.washington.edu/~thomas/). My research interests broadly consist of questions inspired by data science and machine learning, with a particular focus on problems with an algebraic or combinatorial nature. I am especially interested in **symmetry**.
 
 Prior to my time at the University of Washington, I was an undergraduate student at Smith College in Northampton, MA.
 
